@@ -30,7 +30,7 @@
 
 - [算法基础08-排序算法](https://github.com/venaissance/myBlog/issues/8)
 
-- [算法基础08-高级DP、字符串算法](https://github.com/venaissance/myBlog/issues/9)
+- [算法基础09-高级DP、字符串算法](https://github.com/venaissance/myBlog/issues/9)
 
 ## About Author
 
