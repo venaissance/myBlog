@@ -32,6 +32,10 @@
 
 - [算法基础09-高级DP、字符串算法](https://github.com/venaissance/myBlog/issues/9)
 
+### 系统配置系列
+
+- [Windows系统配置Aria2](https://github.com/venaissance/myBlog/issues/10)
+
 ## About Author
 
 Email: [mizeyuyu@gmail.com](mailto:mizeyuyu@gmail.com)
