@@ -36,6 +36,8 @@
 
 - [node.js框架太多？从Express开始吧](https://github.com/venaissance/myBlog/issues/11)
 
+- [手写系列01-手写深拷贝](https://github.com/venaissance/myBlog/issues/13)
+
 - [一次搞定前端“四大手写”](https://github.com/venaissance/myBlog/issues/12)
 
 ### 系统配置系列
