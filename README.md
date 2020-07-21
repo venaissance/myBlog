@@ -6,7 +6,7 @@
 
 ### 关注
 
-[知乎专栏](https://zhuanlan.zhihu.com/c_1225480416729407488)
+[知乎专栏](https://zhuanlan.zhihu.com/venaissance)
 
 [掘金专栏](https://juejin.im/user/5a9e90186fb9a028c3685234/posts)
 
