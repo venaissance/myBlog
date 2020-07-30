@@ -36,6 +36,8 @@
 
 #### 前端手写系列
 
+- [一次搞定前端“四大手写”](https://github.com/venaissance/myBlog/issues/12)
+
 - [前端手写系列01-深拷贝的两种实现与局限](https://github.com/venaissance/myBlog/issues/13)
 
 - [前端手写系列02-手写bind的三重境界](https://github.com/venaissance/myBlog/issues/14)
