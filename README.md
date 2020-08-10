@@ -48,7 +48,7 @@
 
 #### 其他
 
-- [node.js框架太多？从Express开始吧](https://github.com/venaissance/myBlog/issues/11)
+- [node.js框架太多不知从何学起？从Express开始吧](https://github.com/venaissance/myBlog/issues/11)
 
 
 ### 系统配置系列
