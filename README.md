@@ -8,31 +8,13 @@
 
 [知乎专栏](https://zhuanlan.zhihu.com/venaissance)
 
-[掘金专栏](https://juejin.im/user/5a9e90186fb9a028c3685234/posts)
+[掘金专栏](https://juejin.im/user/201965868941358/posts)
 
 ## Posts
 
-### 算法系列
-
-- [算法基础01-数组、链表、跳表](https://github.com/venaissance/myBlog/issues/1)
-
-- [算法基础02-栈、队列、哈希表、映射、集合](https://github.com/venaissance/myBlog/issues/2)
-
-- [算法基础03-树、图、堆、递归、分治、回溯](https://github.com/venaissance/myBlog/issues/3)
-
-- [算法基础04-DFS、BFS、贪心算法、二分查找](https://github.com/venaissance/myBlog/issues/4)
-
-- [算法基础05-动态规划](https://github.com/venaissance/myBlog/issues/5)
-
-- [算法基础06-字典树、并查集、高级搜索、红黑树、AVL 树](https://github.com/venaissance/myBlog/issues/6)
-
-- [算法基础07-位运算、布隆过滤器、LRU Cache](https://github.com/venaissance/myBlog/issues/7)
-
-- [算法基础08-排序算法](https://github.com/venaissance/myBlog/issues/8)
-
-- [算法基础09-高级DP、字符串算法](https://github.com/venaissance/myBlog/issues/9)
-
 ### 前端系列
+
+- [一次搞定前端核心主线——从输入URL到页面展示发生了什么](https://github.com/venaissance/myBlog/issues/17)
 
 #### JS 基础系列
 
@@ -53,6 +35,27 @@
 #### 其他
 
 - [node.js框架太多不知从何学起？从Express开始吧](https://github.com/venaissance/myBlog/issues/11)
+
+
+### 算法系列
+
+- [算法基础01-数组、链表、跳表](https://github.com/venaissance/myBlog/issues/1)
+
+- [算法基础02-栈、队列、哈希表、映射、集合](https://github.com/venaissance/myBlog/issues/2)
+
+- [算法基础03-树、图、堆、递归、分治、回溯](https://github.com/venaissance/myBlog/issues/3)
+
+- [算法基础04-DFS、BFS、贪心算法、二分查找](https://github.com/venaissance/myBlog/issues/4)
+
+- [算法基础05-动态规划](https://github.com/venaissance/myBlog/issues/5)
+
+- [算法基础06-字典树、并查集、高级搜索、红黑树、AVL 树](https://github.com/venaissance/myBlog/issues/6)
+
+- [算法基础07-位运算、布隆过滤器、LRU Cache](https://github.com/venaissance/myBlog/issues/7)
+
+- [算法基础08-排序算法](https://github.com/venaissance/myBlog/issues/8)
+
+- [算法基础09-高级DP、字符串算法](https://github.com/venaissance/myBlog/issues/9)
 
 
 ### 系统配置系列
