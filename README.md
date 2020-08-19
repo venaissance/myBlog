@@ -14,7 +14,7 @@
 
 ### 前端系列
 
-- [一次搞定前端核心主线——从输入URL到页面展示发生了什么](https://github.com/venaissance/myBlog/issues/17)
+- [一次搞定前端“核心主线”——从输入URL到页面展示发生了什么](https://github.com/venaissance/myBlog/issues/17)
 
 #### JS 基础系列
 
