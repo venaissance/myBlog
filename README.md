@@ -34,7 +34,7 @@
 
 - [React 优秀博客阅读摘要 & 总结](https://github.com/venaissance/myBlog/issues/18)
 
-#### 其他
+#### Node.js 系列
 
 - [node.js框架太多不知从何学起？从Express开始吧](https://github.com/venaissance/myBlog/issues/11)
 
@@ -57,6 +57,10 @@
 - [算法基础08-排序算法](https://github.com/venaissance/myBlog/issues/8)
 
 - [算法基础09-高级DP、字符串算法](https://github.com/venaissance/myBlog/issues/9)
+
+### 设计模式系列
+
+- [一次搞定四种重要的 JavaScript 设计模式](https://github.com/venaissance/myBlog/issues/19)
 
 ### 系统配置系列
 
